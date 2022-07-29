@@ -1,4 +1,4 @@
-# firts
+# first
 Insertion Sort Aşamaları 
 [22,27,16,2,18,6] - (n)
 [2|,27,16,22,18,6] - (n-1)
